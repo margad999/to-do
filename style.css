@@ -1,0 +1,14 @@
+.input {
+  width: 500px;
+}
+.box {
+  width: 500px;
+  margin-left: 5px;
+  margin-top: 20px;
+}
+.button {
+  color: aqua;
+}
+.title {
+  color: aqua;
+}
